@@ -1,0 +1,1 @@
+calculadora con casillas de verificación (checkboxes) en Android Studio. En esta calculadora, puedes seleccionar diferentes operaciones matemáticas usando casillas de verificación y luego ingresar dos números para realizar el cálculo.
